@@ -1,19 +1,20 @@
 # Encrypter-Decrypter
 A simple java swing encrypter-decrypter that encrypts-decrypts any kinds of files like pdf, text, audio, image, and video using symmetric (RC4, DES, 3DES) cryptographic algorithm.
-![](https://github.com/parvez86/Encrypt_Decrypt_Master/tree/main/projectPic/1_home.PNG)
 
 # Files
 * **RC4.java:** RC4 symmetric cryptography.
 * **DES.java:** DES symmetric cryptography.
 * **TripleDES.java:** 3DES symmetric cryptography.
-* **JavaUtil.java:** Java util file read-write.
+* **JavaUtil.java:** Java File read-write.
 * **EncryptDecrypt.java:** Project GUI with java swing.
 
 # Run Project
 **EncryptDecrypt.java:** Run the file.
 
 # Features
-| File Type |     File   | File Encrypt | File After Encryption | File Decrypt | File After Decryption |
+![](https://github.com/parvez86/Encrypt_Decrypt_Master/blob/main/projectPic/1_home.PNG)
+
+| File Type |     File   | File Encryption | File After Encryption | File Decryption | File After Decryption |
 |:---------:|:----------:|:-----------:|:-------:|:-----------:|:---------------:| 
 |   Image   |![img_file]|![img_file_encrypt]|![img_file_after_encryption]|![img_file_decrypt]|![img_file_after_decryption]|
 |    PDF    |![pdf_file]|![pdf_file_encrypt]|![pdf_file_after_encryption]|![pdf_file_decrypt]|![pdf_file_after_decryption]|
