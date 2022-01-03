@@ -3,11 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Projects/EncryptDecrypt-master/src/EncryptDecrypt/UtilFile.java</file>
-            <file>file:/D:/Projects/EncryptDecrypt-master/src/EncryptDecrypt/RC4.java</file>
-            <file>file:/D:/Projects/EncryptDecrypt-master/src/EncryptDecrypt/EncryptDecrypt.java</file>
-            <file>file:/D:/Projects/EncryptDecrypt-master/src/EncryptDecrypt/TripleDES.java</file>
-            <file>file:/D:/Projects/EncryptDecrypt-master/src/EncryptDecrypt/DES.java</file>
+            <file>file:/D:/Projects/Encrypt_Decrypt_Master/src/EncryptDecrypt/EncryptDecrypt.java</file>
+            <file>file:/D:/Projects/Encrypt_Decrypt_Master/src/EncryptDecrypt/UtilFile.java</file>
         </group>
     </open-files>
 </project-private>
